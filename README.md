@@ -15,6 +15,7 @@ Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 Database: MySQL / CSV datasets
 Visualization Tools: Power BI / Tableau / Matplotlib
 Framework (optional): Flask / Streamlit
+
 📂 Project Structure
 Ecommerce-Data-Analysis/
 │
@@ -26,6 +27,7 @@ Ecommerce-Data-Analysis/
 ├── app/                   # Web app (if implemented)
 ├── README.md              # Project documentation
 └── requirements.txt       # Dependencies
+
 📊 Features
 📈 Sales performance analysis (monthly, yearly trends)
 🛒 Customer segmentation based on purchasing behavior
