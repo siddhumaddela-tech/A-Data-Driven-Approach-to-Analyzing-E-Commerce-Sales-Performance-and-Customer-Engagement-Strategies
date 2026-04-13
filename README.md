@@ -1,9 +1,11 @@
 📊 A Data-Driven Approach to Analyzing E-Commerce Sales Performance, Demand Patterns, and Customer Engagement Strategies
+
 📌 Overview
 
 This project focuses on analyzing e-commerce data to uncover insights into sales performance, customer demand patterns, and engagement strategies. By leveraging data analytics and machine learning techniques, the system helps businesses make informed decisions to improve profitability and customer satisfaction.
 
 🎯 Objectives
+
 Analyze sales data to identify trends and performance metrics
 Understand customer behavior and demand patterns
 Evaluate the effectiveness of customer engagement strategies
