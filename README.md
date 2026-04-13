@@ -72,12 +72,20 @@ Demand forecasting plots
 
 📈 Results & Insights
 Improved understanding of customer behavior
+
 Identification of high-performing products
+
 Better demand forecasting accuracy
+
 Data-driven decision-making support
+
 🔮 Future Enhancements
+
 Integration with real-time data pipelines
+
 Advanced deep learning models
+
 Personalized recommendation system
+
 Deployment on cloud platforms
 
