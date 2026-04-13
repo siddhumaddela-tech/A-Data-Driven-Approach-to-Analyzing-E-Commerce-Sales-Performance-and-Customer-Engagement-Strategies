@@ -19,13 +19,21 @@ Framework (optional): Flask / Streamlit
 📂 Project Structure
 Ecommerce-Data-Analysis/
 │
+
 ├── data/                  # Raw and processed datasets
+
 ├── notebooks/             # Jupyter notebooks for analysis
+
 ├── src/                   # Source code (data processing & models)
+
 ├── models/                # Trained machine learning models
+
 ├── visuals/               # Charts and graphs
+
 ├── app/                   # Web app (if implemented)
+
 ├── README.md              # Project documentation
+
 └── requirements.txt       # Dependencies
 
 📊 Features
