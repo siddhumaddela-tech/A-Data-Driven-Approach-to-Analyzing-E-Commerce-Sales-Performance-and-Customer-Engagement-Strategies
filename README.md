@@ -9,11 +9,16 @@ Understand customer behavior and demand patterns
 Evaluate the effectiveness of customer engagement strategies
 Build predictive models for future sales forecasting
 Provide actionable insights through visualization dashboards
+
 🛠️ Technologies Used
 Programming Language: Python
+
 Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+
 Database: MySQL / CSV datasets
+
 Visualization Tools: Power BI / Tableau / Matplotlib
+
 Framework (optional): Flask / Streamlit
 
 📂 Project Structure
